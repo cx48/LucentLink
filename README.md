@@ -19,7 +19,7 @@ A clean, customizable, and responsive Linktree-style landing page built using HT
 
 - HTML5
 - TailwindCSS
-- Font Awesome
+- Font Awesome (for icons)
 - JavaScript (for background animation)
 
 ## Fork and Edit Locally
