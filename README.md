@@ -6,6 +6,8 @@ A clean, customizable, and responsive Linktree-style landing page built using HT
 
 **Live Site Demo:** [Lucent Link](https://cx48.github.io/LucentLink)
 
+![Demo](demo.gif)
+
 ## Features
 
 - Responsive and mobile-friendly layout
