@@ -4,7 +4,7 @@ A clean, customizable, and responsive Linktree-style landing page built using HT
 
 ## Live Demo
 
-**Live Site Demo:** [LucentLink](https://cx48.github.io/LucentLink)
+**Live Site Demo:** [Lucent Link](https://cx48.github.io/LucentLink)
 
 ## Features
 
@@ -47,7 +47,7 @@ code .
 
 ## Deployment
 
-#### GitHub Pages
+### GitHub Pages
 
 1. Push your code to GitHub.
 2. Go to **Repository Settings > Pages**
@@ -61,7 +61,7 @@ code .
 
 ---
 
-#### Vercel
+### Vercel
 
 1. Go to [https://vercel.com](https://vercel.com)
 2. Click **"Add New Project"** and import your GitHub repo
