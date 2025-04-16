@@ -100,9 +100,3 @@ Edit Tailwind classes (e.g., `bg-white`, `text-sm`, etc.) or tweak `style.css` f
 ## License
 
 This project is licensed under the [MIT License](LICENSE)
-
-## Acknowledgments
-
-- [Tailwind CSS](https://tailwindcss.com/)
-- [Font Awesome](https://fontawesome.com/)
-- Inspiration from Linktree styled profile pages
