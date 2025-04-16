@@ -1,4 +1,4 @@
-# LucentLink
+# Lucent Link
 
 A clean, customizable, and responsive Linktree-style landing page built using HTML, TailwindCSS, and Font Awesome. It allows you to showcase your links, social profiles, and personal branding in one beautiful page.
 
